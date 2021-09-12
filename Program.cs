@@ -6,7 +6,7 @@ namespace Collabaration
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello changed to Home!");
         }
     }
 }
